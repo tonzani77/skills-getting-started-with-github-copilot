@@ -74,7 +74,7 @@ Let's start up our development environment, use copilot to learn a bit about the
    > 🪧 **Note:** It is not necessary to follow Copilot's recommended instructions. We have already prepared the environment for you.
 
    <details>
-   <summary>What is @workspace?</summary>
+   <summary>What should I do to run it?</summary>
 
    Great question! This is a specialized [chat participant](https://docs.github.com/en/copilot/using-github-copilot/copilot-chat/github-copilot-chat-cheat-sheet?tool=vscode#chat-participants) that will explore the project repository and try to include relevant additional context.
 
